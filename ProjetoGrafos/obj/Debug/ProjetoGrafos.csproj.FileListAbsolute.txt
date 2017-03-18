@@ -1,0 +1,6 @@
+c:\users\allef\documents\visual studio 2015\Projects\ProjetoGrafos\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe.config
+c:\users\allef\documents\visual studio 2015\Projects\ProjetoGrafos\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe
+c:\users\allef\documents\visual studio 2015\Projects\ProjetoGrafos\ProjetoGrafos\bin\Debug\ProjetoGrafos.pdb
+c:\users\allef\documents\visual studio 2015\Projects\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.csprojResolveAssemblyReference.cache
+c:\users\allef\documents\visual studio 2015\Projects\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.exe
+c:\users\allef\documents\visual studio 2015\Projects\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.pdb
